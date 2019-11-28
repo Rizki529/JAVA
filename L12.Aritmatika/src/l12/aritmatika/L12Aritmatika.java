@@ -6,11 +6,11 @@
 package l12.aritmatika;
 
 /**
- * NAMA  : Cahya Satria Gumelar
- * NIM   : A2.1900028
- * Kelas : TI-1A
+* NAMA  : M Rizki Saeful Rohman
+ * NIM   : A2.1900101
+ * Kelas : TI-B
  * 
- * @author CahyaSatriaGumelar
+ * @author Ikky
  */
 public class L12Aritmatika {
 
